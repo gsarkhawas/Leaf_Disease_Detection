@@ -1,4 +1,4 @@
-# Leaf_Disease_Detection
+## Leaf_Disease_Detection
 
 Early diagnosis and accurate identification of leaf diseases can control the spread of infection and
 ensure the healthy development. Manual inspection or description about the quality of plant 
