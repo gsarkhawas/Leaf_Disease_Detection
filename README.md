@@ -10,7 +10,7 @@ diseases automatically based on symptoms that are visible on leaves of plants.
 This project focuses on utilizing deep learning algorithm with `keras` on potato images collected from `crowdAI site
 for plant village classification challenges`. 
 
-Folder strcture:
+Folder strctures:
 
 - `ModelTrain.py` script represents the training model
 - `ModelTest.py` script represents the testing module used for prediction
