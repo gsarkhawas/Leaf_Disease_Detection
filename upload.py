@@ -2,8 +2,8 @@ import os
 from flask import Flask, request, send_from_directory, render_template
 from ModelTest import classifyImage
 
-UPLOAD_FOLDER = '/home/sunbeam/Guzzu-DBDA/Project/Images/Potato_Try'
-ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif','JPG'])
+UPLOAD_FOLDER = '/home/Images/Potato'
+ALLOWED_EXTENSIONS = set(['png', 'JPG', 'jpg', 'jpeg', 'gif'])
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
